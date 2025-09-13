@@ -31,9 +31,10 @@ Currently building **CloudOps Copilot** — my 30-day DevOps lab series with mic
 
 </td>
 <td width="38%" align="center" valign="top">
+  <img src="me_git.PNG" width="100%" style="border-radius:18px;" alt="Profile photo"/>
+</td>
 
-<!-- Replace with your own GIF or photo -->
-<img src="ASSETS_URL_OR_RELATIVE_PATH" width="260" style="border-radius:18px;" alt="Cloud / DevOps GIF"/>
+
 
 </td>
 </tr>
