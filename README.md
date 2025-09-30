@@ -10,7 +10,7 @@
 
 Cloud Engineer in **Houston, TX** focused on **Azure**, **CI/CD**, and **Infrastructure as Code**.  
 I like taking messy infra and turning it into **simple, automated pipelines**.  
-Currently building **CloudOps Copilot** — my 30-day DevOps lab series with micro-steps and notes.
+Currently building **ThreadWave** — my 30-day CRDT-based real-time whiteboard series with micro-steps and notes.
 
 
 **Now:** Terraform modules, GitHub Actions, AKS, cost-aware design.
