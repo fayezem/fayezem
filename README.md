@@ -6,14 +6,18 @@
 <td width="62%" valign="top">
 
 ### 🧑‍💻 About Me
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0078D4&width=435&lines=Cloud+Engineer;Azure+%7C+Terraform+%7C+Kubernetes;CI%2FCD+with+GitHub+Actions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0078D4&width=500&lines=Builder;Learner;Problem+Solver)
 
-Cloud Engineer in **Houston, TX** focused on **Azure**, **CI/CD**, and **Infrastructure as Code**.  
-I like taking messy infra and turning it into **simple, automated pipelines**.  
-Currently building **ThreadWave** — my 30-day CRDT-based real-time whiteboard series with micro-steps and notes.
+I build software because I love learning how things work — end to end.
 
+I don’t have a fixed “vertical” I’m chasing. What I’ve always enjoyed about software is the ability to move **horizontally**:  
+front-end, back-end, full-stack, databases, infrastructure, systems, hardware — all of it connects, and I like exploring those connections.
 
-**Now:** Terraform modules, GitHub Actions, AKS, cost-aware design.
+My ideal environment is one where I can **move between teams, touch different projects, and learn new domains** instead of feeling boxed into a single lane. I’m happy working in any field if it means gaining real understanding, shipping things, and solving new problems.
+
+I’m constantly learning — whether that’s **software, hardware, microcontrollers, embedded systems, operating systems, cloud, or AI**. I don’t optimize for a title; I optimize for momentum, curiosity, and building.
+
+Right now, that looks like projects across cloud, infrastructure, and systems — but I’m always open to where the work pulls me next.
 
 <br/>
 
@@ -71,7 +75,6 @@ Start with **CloudOps Copilot** (pinned below). More coming soon.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 </p>
 
